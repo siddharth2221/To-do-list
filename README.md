@@ -22,6 +22,4 @@
   <img width="660" height="300" src="todo_list/static/images/b.png">
   <img width="660" height="300" src="todo_list/static/images/c.png">
 
-**Copyright ©** 2019-3019 Md. Omar Faruk
-
 ## Go Through This Site Then You Will Know About This Site Properly.
